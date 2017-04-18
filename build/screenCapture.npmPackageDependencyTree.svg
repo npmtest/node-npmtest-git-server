@@ -1,0 +1,42 @@
+<svg height="622" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="622" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">13 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ git-server@0.2.0 </tspan>
+<tspan x="10" y="90">  ├─┬ async@2.3.0 </tspan>
+<tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="122">  ├── cli-listener@0.0.4 </tspan>
+<tspan x="10" y="138">  ├─┬ cli-table@0.3.1 </tspan>
+<tspan x="10" y="154">  │ └── colors@1.0.3 </tspan>
+<tspan x="10" y="170">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="186">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="202">  ├── event-proxy@0.0.1 </tspan>
+<tspan x="10" y="218">  ├─┬ git-emit@0.0.0 </tspan>
+<tspan x="10" y="234">  │ ├─┬ dnode@0.9.12 </tspan>
+<tspan x="10" y="250">  │ │ ├─┬ dnode-protocol@0.1.5 </tspan>
+<tspan x="10" y="266">  │ │ │ └── traverse@0.6.6 </tspan>
+<tspan x="10" y="282">  │ │ ├── jsonify@0.0.0 </tspan>
+<tspan x="10" y="298">  │ │ ├── lazy@1.0.11 </tspan>
+<tspan x="10" y="314">  │ │ ├─┬ socket.io@0.8.6 </tspan>
+<tspan x="10" y="330">  │ │ │ ├── policyfile@0.0.4 </tspan>
+<tspan x="10" y="346">  │ │ │ └── redis@0.6.7 </tspan>
+<tspan x="10" y="362">  │ │ └─┬ socket.io-client@0.8.6 </tspan>
+<tspan x="10" y="378">  │ │   ├── uglify-js@1.0.6 </tspan>
+<tspan x="10" y="394">  │ │   ├── websocket-client@1.0.0 </tspan>
+<tspan x="10" y="410">  │ │   └── xmlhttprequest@1.2.2 </tspan>
+<tspan x="10" y="426">  │ └─┬ seq@0.3.5 </tspan>
+<tspan x="10" y="442">  │   ├─┬ chainsaw@0.0.9 </tspan>
+<tspan x="10" y="458">  │   │ └── traverse@0.3.9 </tspan>
+<tspan x="10" y="474">  │   └── hashish@0.0.4 </tspan>
+<tspan x="10" y="490">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="506">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="522">  └─┬ pushover@1.3.6 </tspan>
+<tspan x="10" y="538">    ├─┬ http-duplex@0.0.2 </tspan>
+<tspan x="10" y="554">    │ └── duplex-pipe@0.0.2 </tspan>
+<tspan x="10" y="570">    ├── inherits@1.0.2 </tspan>
+<tspan x="10" y="586">    ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="602">    └── through@2.2.7</tspan>
+</text>
+</svg>
