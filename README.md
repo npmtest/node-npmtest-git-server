@@ -1,4 +1,7 @@
-# test coverage for  [git-server (v0.2.0)](http://qrpike.github.io/NodeJS-Git-Server/host.coffee.html)  [![npm package](https://img.shields.io/npm/v/npmtest-git-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-git-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-git-server.svg)](https://travis-ci.org/npmtest/node-npmtest-git-server)
+# npmtest-git-server
+
+#### basic test coverage for  [git-server (v0.2.0)](http://qrpike.github.io/NodeJS-Git-Server/host.coffee.html)  [![npm package](https://img.shields.io/npm/v/npmtest-git-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-git-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-git-server.svg)](https://travis-ci.org/npmtest/node-npmtest-git-server)
+
 #### A simple, multi-tenant git server written in NodeJS
 
 [![NPM](https://nodei.co/npm/git-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/git-server)
